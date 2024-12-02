@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiotrStelmaszczyk
-- 👀 I’m interested in Supervised Learning, Reinforcement Learning and Deep Learning and other fields within AI.
+- 👀 I’m interested in Astrophysics, Robotics and, Supervised Learning, Reinforcement Learning and Deep Learning and other fields within AI.
 - 🌱 I’m currently studying Computer Science with Innovation at the University of Bristol.
 - 💞️ I’m looking to collaborate on projects with strong applications in AI that have strong real-world applications.
 - 📫 How to reach me: www.linkedin.com/in/piotr-max-stelmaszczyk
