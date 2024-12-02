@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects with strong applications in AI that have strong real-world applications.
 - 📫 How to reach me: www.linkedin.com/in/piotr-max-stelmaszczyk
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play piano and guitar, and I also play table tennis and do Judo.
+- ⚡ Fun fact: I play piano and guitar, and I also play table tennis and do judo.
 
 <!---
 PiotrStelmaszczyk/PiotrStelmaszczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
